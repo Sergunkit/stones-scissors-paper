@@ -1,0 +1,24 @@
+{
+  "name": "stones-scissors-paper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergunkit/stones-scissors-paper.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergunkit/stones-scissors-paper/issues"
+  },
+  "homepage": "https://github.com/Sergunkit/stones-scissors-paper#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
